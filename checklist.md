@@ -1,0 +1,34 @@
+Fill up Checklist based on task needed for completion
+
+- [] Setup Server - Express APP
+  - [] Install Dependencies
+  - [] Setup Express App
+- [] Model DB
+  - [] What data will we store?
+- [] Setup mySQL Model(s)
+- []
+  - []
+  - []
+  - []
+  - []
+- []
+  - []
+  - []
+  - []
+  - []
+- []
+- []
+  - []
+  - []
+  - []
+  - []
+- []
+- []
+- []
+- []
+- []
+- []
+  - []
+- [] Styling - works 90% on mobile
+- [] DEPLOY!
+- [] README
